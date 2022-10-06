@@ -1,17 +1,7 @@
 <h1 align="center">Hi, I'm Furkan Arslan</h1>
 <h3 align="center">Backend Developer from Turkey</h3>
 
-- 🔭 I'm currently learning **Golang and Microservices Architecture**
-
-- 🌱 I want to learn: **Rust & Kubernetes**
-
-- 👯 I’m looking to **collaborate on  open source projects**
-
-- 🥅 Goals: Learn more about **Devops and work on personal projects**
-
-- ⚡ I like trying out new technologies.
-
-- 📚 Currently Reading: **The Pragmatic Programmer**
+- 🔭 I'm currently working as a Backend Developer @ Property Finder
 
 - 📫 How to reach me: **furkanarsl@outlook.com**
 
